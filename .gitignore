@@ -109,3 +109,7 @@ media/
 *.pid
 
 migrations/
+
+#keys
+*.crt
+*.key
